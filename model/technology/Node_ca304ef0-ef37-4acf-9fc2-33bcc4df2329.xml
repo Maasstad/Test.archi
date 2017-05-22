@@ -1,0 +1,12 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server X"
+    id="ca304ef0-ef37-4acf-9fc2-33bcc4df2329"
+    documentation="Applicatie server X">
+  <properties
+      key="IP adres"
+      value="10.10.10.1"/>
+  <properties
+      key="Rol"
+      value="Applicatie server"/>
+</archimate:Node>
